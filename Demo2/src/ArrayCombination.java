@@ -2,6 +2,7 @@ import java.util.ArrayList;
 
 public class ArrayCombination {
     //1111- remote
+    //hi
     public static void main(String[] args) {
         int a[]= new int[]{2,1,4,8,32,30,50,7};
 
