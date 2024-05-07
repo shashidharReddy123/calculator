@@ -23,6 +23,7 @@ public class MatchingArrays {
                 System.out.println("both are equal");
 
             }
+            //hi how are you-1
 
 
         }
