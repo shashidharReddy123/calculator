@@ -19,11 +19,12 @@ public class MatchingArrays {
                 break;
 
             }
-            if(n==4&&same){
+            if(n[0]==4&&same){
                 System.out.println("both are equal");
 
             }
             //hi how are you-1
+            //i am fine-2
 
 
         }

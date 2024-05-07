@@ -11,7 +11,7 @@ public class Demo {
            temp=x;
            //int final= temp+x;
 
-            System.out.println(x);
+            //System.out.println(x);
 
         }
 
